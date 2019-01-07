@@ -1,2 +1,13 @@
-# mweb-them-machi
-a site-theme for MWeb (a markdown editor based on macOS)
+# mweb-theme-machi
+Machi 是一个为 [MWeb (一个 Markdown 笔记软件)](https://zh.mweb.im/) 制作的静态博客主题，通过该主题用户可以轻松地在 MWeb 中书写、修改博客并发布到 GitHub Pages 中。
+
+## 项目目标
+目前 MWeb 提供的默认主题功能功能较少，因此萌生了写一个主题的想法，计划该主题可以提供以下功能：
+
+1. 除了现有的「首页」、「归档」以外，提供更多的单页面，例如：关于页面、友链页面
+1. 除了「分类」、「订阅」以外，提供「标签」、「评论」模块。
+1. 文章提供「TOC目录」、「返回顶部」功能
+
+## 实现计划
+本人之前没用前端经验，会摸索着前进，尽量在 2019 年可用吧。
+目前的博客是基于 Hexo 的 [难以想象的晴朗](https://imzhizi.com/)，项目会参考  MWeb 默认主题和部分 Hexo 主题。
